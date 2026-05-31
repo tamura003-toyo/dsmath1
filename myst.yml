@@ -2,7 +2,7 @@
 version: 1
 project:
   id: c70038f2-eb12-49c4-a06a-658396b2a125
-  github: https://github.com/tamura003/dsmath1
+  github: https://github.com/tamura003-toyo/dsmath1
   toc:
     - file: 1_intro.md
     - file: 2_sequences.md
