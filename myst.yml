@@ -22,7 +22,8 @@ project:
 site:
   template: book-theme
   title: データサイエンス基礎I
-  
+  styles:
+    - styles.css
   options:
     logo_text: データサイエンス基礎I
     css:
