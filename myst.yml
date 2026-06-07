@@ -4,12 +4,20 @@ project:
   id: c70038f2-eb12-49c4-a06a-658396b2a125
   github: https://github.com/tamura003-toyo/dsmath1
   toc:
-    - file: 1_intro.md
+    - file: 0_intro.md
+    - file: 1_prelim.md
     - file: 2_sequences.md
+    - file: 3_functions.md
+    - file: 4_exponentials.md
+    - file: 5_logarithms.md
+    - file: 6_changes.md
+    - file: 7_differentials.md
+    - file: 8_ondemand.md
+    - file: 8_ondemand_ans.md
   # title:
   # description:
   # keywords: []
-  # authors: []
+  authors: ["田村龍一"]
   # github:
 site:
   template: book-theme
